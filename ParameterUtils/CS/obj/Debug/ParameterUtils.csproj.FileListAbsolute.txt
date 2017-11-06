@@ -1,0 +1,7 @@
+C:\Users\jay.merlan\DevLab\ParameterUtils\ParameterUtils\CS\bin\Debug\ParameterUtils.dll
+C:\Users\jay.merlan\DevLab\ParameterUtils\ParameterUtils\CS\bin\Debug\ParameterUtils.pdb
+C:\Users\jay.merlan\DevLab\ParameterUtils\ParameterUtils\CS\obj\Debug\Revit.SDK.Samples.ParameterUtils.CS.PropertiesForm.resources
+C:\Users\jay.merlan\DevLab\ParameterUtils\ParameterUtils\CS\obj\Debug\ParameterUtils.csproj.GenerateResource.Cache
+C:\Users\jay.merlan\DevLab\ParameterUtils\ParameterUtils\CS\obj\Debug\ParameterUtils.csproj.CoreCompileInputs.cache
+C:\Users\jay.merlan\DevLab\ParameterUtils\ParameterUtils\CS\obj\Debug\ParameterUtils.dll
+C:\Users\jay.merlan\DevLab\ParameterUtils\ParameterUtils\CS\obj\Debug\ParameterUtils.pdb

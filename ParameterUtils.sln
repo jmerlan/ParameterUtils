@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterUtils", "ParameterUtils\CS\ParameterUtils.csproj", "{4F033A02-39C3-4E61-9CD4-969EB3056BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4F033A02-39C3-4E61-9CD4-969EB3056BCD}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFC9E2C-5583-42FA-AA71-579B10BC891F}
+	EndGlobalSection
+EndGlobal
